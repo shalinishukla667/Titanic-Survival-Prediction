@@ -1,2 +1,18 @@
-# Titanic-Survival-Prediction
-"A machine learning project for predicting Titanic passengers' survival using a Decision Tree classifier. The dataset is taken from Kaggle, and the implementation is done using Python, Pandas, Scikit-learn, and Matplotlib. Includes data visualization, feature engineering, and model evaluation."
+# 🚀 Decision Tree Implementation for Titanic Dataset
+
+## 📌 Project Overview  
+This project implements a **Decision Tree Classifier** to predict **Titanic Survivors**.  
+It includes:  
+✅ Data Preprocessing & Feature Engineering  
+✅ Model Training & Evaluation  
+✅ Decision Tree Visualization  
+✅ Performance Metrics Analysis  
+
+## 🔧 Installation  
+ Clone the repository:  
+
+git clone https://github.com/shalinishukla667/Titanic-Survival-Prediction
+
+Install required libraries:
+
+pip install pandas numpy matplotlib seaborn scikit-learn
